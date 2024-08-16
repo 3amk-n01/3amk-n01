@@ -16,4 +16,4 @@
 Junior ***Pentester*** with entry level experience in the field , seeking for suitable
 job position to learn more and practice cyber security.
 
-I have experience in **network pentesting** and i start in bug hunting recently.
+I have experience in **network pentesting** and i start in **bug hunting** recently.

@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ahmed Mbrouk [**@3amk-n01**]  
-- 👀 I’m interested in   ***Cyber Security***
-- 🌱 I’m currently learning  **Cyber Security [ Web Pentesting ]**
-
+- Hi, I’m Ahmed Mbrouk [**@3amk-n01**]  
+- **Pentester · Network, Web & API**
+- **Bug Bounty Hunter**
 
 <div align="left"> 
   <a href="mailto:ahmedalimbrouk@gmail.com">
@@ -16,4 +15,8 @@
 Junior ***Pentester*** with entry level experience in the field , seeking for suitable
 job position to learn more and practice cyber security.
 
-I have experience in **network pentesting** and i start in **bug hunting** recently.
+
+[Scripts](https://github.com/3amk-n01/infoDisc-re)
+
+## ⚖️ Rules of Engagement
+I test **only authorized systems**.

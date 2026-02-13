@@ -1,5 +1,5 @@
 - Hi, I’m Ahmed Mbrouk [**@3amk-n01**]  
-- **Pentester · Network, Web & API**
+- **Pentester · External Network , Web & API**
 - **Bug Bounty Hunter**
 
 <div align="left"> 

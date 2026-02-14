@@ -16,7 +16,9 @@ Junior ***Pentester*** with entry level experience in the field , seeking for su
 job position to learn more and practice cyber security.
 
 
-[Scripts](https://github.com/3amk-n01/infoDisc-re) | infoDisc-re
+[Scripts](https://github.com/3amk-n01/3amk-n01_Scripts) | Bug Bounty Scripts
+
+
 
 ## ⚖️ Rules of Engagement
 I test **only authorized systems**.

@@ -15,9 +15,9 @@
 Junior ***Pentester*** with entry level experience in the field , seeking for suitable
 job position to learn more and practice cyber security.
 
-[3amk_BBH_Guide_26](https://github.com/3amk-n01/3amk_BBH_Guide_26) | Bug Bounty Guide
-[Cheat-Sheets](https://github.com/3amk-n01/BBP_Cheat_Sheets_3amk) | Cheat-Sheets
-[Scripts](https://github.com/3amk-n01/3amk-n01_Scripts) | Bug Bounty Scripts
+- [3amk_BBH_Guide_26](https://github.com/3amk-n01/3amk_BBH_Guide_26) | Bug Bounty Guide
+- [Cheat-Sheets](https://github.com/3amk-n01/BBP_Cheat_Sheets_3amk) | Cheat-Sheets
+- [Scripts](https://github.com/3amk-n01/3amk-n01_Scripts) | Bug Bounty Scripts
 
 
 
